@@ -13,7 +13,7 @@ import net.learning.translator_kmm.translate.domain.history.HistoryItem
 class SqlDelightHistoryDataSource(
     db: TranslatorDatabase
 ): HistoryDataSource {
-    val queries = db.translatorQueries
+    private val queries = db.translatorQueries
     override fun getHistory(): CommonFlow<List<HistoryItem>> {
         return queries.getHistory()
             .asFlow()
