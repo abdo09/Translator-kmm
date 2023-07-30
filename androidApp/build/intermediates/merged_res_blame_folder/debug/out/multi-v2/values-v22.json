@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "net.learning.translator_kmm.android.androidApp-mergeDebugResources-59:/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "/Users/AbdelrahmanOmer/.gradle/caches/transforms-3/1fc951c9ba2eddc586560d3fbe4b9f2b/transformed/appcompat-1.4.1/res/values-v22/values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,548,896"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,487",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,482,764"
+                    }
+                }
+            ]
+        }
+    ]
+}

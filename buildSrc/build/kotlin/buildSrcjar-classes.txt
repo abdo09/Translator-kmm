@@ -1,0 +1,1 @@
+/Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/buildSrc/build/classes/kotlin/main/Deps.class
