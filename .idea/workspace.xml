@@ -10,9 +10,99 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc3f9327-008b-4425-bef7-e34db07c99da" name="Changes" comment="fixup! Revert &quot;First commit&quot;">
-      <change afterPath="$PROJECT_DIR$/androidApp/src/main/java/net/learning/translator_kmm/android/Theme.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/androidApp/src/main/java/net/learning/translator_kmm/android/Type.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shared/src/commonMain/sqldelight/database/translator.sq" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shared/src/androidMain/kotlin/net/learning/translator_kmm/translate/data/local/DatabaseDriverFactory.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shared/src/commonMain/kotlin/net/learning/translator_kmm/translate/data/history/HistoryMapperItem.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shared/src/commonMain/kotlin/net/learning/translator_kmm/translate/data/local/DatabaseDriverFactory.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shared/src/iosMain/kotlin/net/learning/translator_kmm/translate/data/local/DatabaseDriverFactory.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0.2/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0.2/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0.2/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidApp/build/intermediates/apk_ide_redirect_file/debug/redirect.txt" beforeDir="false" afterPath="$PROJECT_DIR$/androidApp/build/intermediates/apk_ide_redirect_file/debug/redirect.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidApp/build/intermediates/dex/debug/mergeLibDexDebug/15/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/androidApp/build/intermediates/dex/debug/mergeLibDexDebug/15/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidApp/build/intermediates/dex_archive_input_jar_hashes/debug/out" beforeDir="false" afterPath="$PROJECT_DIR$/androidApp/build/intermediates/dex_archive_input_jar_hashes/debug/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidApp/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/androidApp/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidApp/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" afterPath="$PROJECT_DIR$/androidApp/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidApp/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/androidApp/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidApp/build/intermediates/merged_manifest/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/androidApp/build/intermediates/merged_manifest/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidApp/build/intermediates/merged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/androidApp/build/intermediates/merged_manifests/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidApp/build/intermediates/packaged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/androidApp/build/intermediates/packaged_manifests/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidApp/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/androidApp/build/intermediates/processed_res/debug/out/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidApp/build/intermediates/sub_project_dex_archive/debug/out/45b0d07bb6bd2d723b5f2d80e521c4fb981f72a1eb41a17a1f1fd5f513b1f21b_0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidApp/build/intermediates/sub_project_dex_archive/debug/out/45b0d07bb6bd2d723b5f2d80e521c4fb981f72a1eb41a17a1f1fd5f513b1f21b_1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidApp/build/intermediates/sub_project_dex_archive/debug/out/45b0d07bb6bd2d723b5f2d80e521c4fb981f72a1eb41a17a1f1fd5f513b1f21b_3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidApp/build/intermediates/sub_project_dex_archive/debug/out/45b0d07bb6bd2d723b5f2d80e521c4fb981f72a1eb41a17a1f1fd5f513b1f21b_4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidApp/build/intermediates/sub_project_dex_archive/debug/out/45b0d07bb6bd2d723b5f2d80e521c4fb981f72a1eb41a17a1f1fd5f513b1f21b_5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidApp/build/kotlin/compileDebugKotlin/cacheable/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/androidApp/build/kotlin/compileDebugKotlin/cacheable/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidApp/build/kotlin/compileDebugKotlin/local-state/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/androidApp/build/kotlin/compileDebugKotlin/local-state/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildSrc/.gradle/8.0.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/.gradle/8.0.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/intermediates/compile_library_classes_jar/debug/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/intermediates/compile_library_classes_jar/debug/classes.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/intermediates/library_java_res/debug/res.jar" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/intermediates/library_java_res/debug/res.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/intermediates/runtime_library_classes_jar/debug/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/intermediates/runtime_library_classes_jar/debug/classes.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/proto.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/proto.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/subtypes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/subtypes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/supertypes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/supertypes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/counters.tab" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/counters.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/file-to-id.tab" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/id-to-file.tab" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/id-to-file.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/lookups.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/lookups.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/lookups.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/classpath-snapshot/shrunk-classpath-snapshot.bin" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/classpath-snapshot/shrunk-classpath-snapshot.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/local-state/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileDebugKotlinAndroid/local-state/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/src/commonMain/kotlin/net/learning/translator_kmm/translate/data/history/SqlDelightHistoryDataSource.kt" beforeDir="false" afterPath="$PROJECT_DIR$/shared/src/commonMain/kotlin/net/learning/translator_kmm/translate/data/history/SqlDelightHistoryDataSource.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/src/commonMain/kotlin/net/learning/translator_kmm/translate/domain/history/HistoryItem.kt" beforeDir="false" afterPath="$PROJECT_DIR$/shared/src/commonMain/kotlin/net/learning/translator_kmm/translate/domain/history/HistoryItem.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,11 +157,11 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Object" />
-        <option value="Kotlin File" />
         <option value="Kotlin Data Class" />
         <option value="Kotlin Interface" />
-        <option value="Kotlin Class" />
         <option value="SqlDelight File" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -128,11 +218,11 @@
     "cidr.known.project.marker": "true",
     "com.google.services.firebase.aqiPopupShown": "true",
     "com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable": "ALL",
-    "last_opened_file_path": "/Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/java/net/learning/translator_kmm/android",
+    "last_opened_file_path": "/Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/shared/src/iosMain/kotlin/net/learning/translator_kmm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.17",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "live.edit.configurable"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="PsdUISettings">
@@ -142,11 +232,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/shared/src/iosMain/kotlin/net/learning/translator_kmm" />
+      <recent name="$PROJECT_DIR$/shared/src/androidMain/kotlin/net/learning/translator_kmm" />
       <recent name="$PROJECT_DIR$/androidApp/src/main/java/net/learning/translator_kmm/android" />
       <recent name="$PROJECT_DIR$/shared/src/androidMain/res/drawable" />
       <recent name="$PROJECT_DIR$/iosApp" />
-      <recent name="$PROJECT_DIR$/shared/src/commonMain/kotlin/net/learning/translator_kmm/core/domain/util" />
-      <recent name="$PROJECT_DIR$/androidApp/src/main/res/font" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/shared/src/commonMain/sqldelight/database" />
@@ -264,7 +354,18 @@
             <State>
               <option name="CUSTOM_BOOLEAN_PROPERTIES">
                 <map>
-                  <entry key="Show.Git.Branches" value="false" />
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
                 </map>
               </option>
             </State>
