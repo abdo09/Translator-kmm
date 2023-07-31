@@ -4,7 +4,7 @@
             "outputFile": "net.learning.translator_kmm.android.androidApp-mergeDebugResources-59:/values-v22/values-v22.xml",
             "map": [
                 {
-                    "source": "/Users/AbdelrahmanOmer/.gradle/caches/transforms-3/1fc951c9ba2eddc586560d3fbe4b9f2b/transformed/appcompat-1.4.1/res/values-v22/values-v22.xml",
+                    "source": "/Users/speero/.gradle/caches/transforms-3/1fc951c9ba2eddc586560d3fbe4b9f2b/transformed/appcompat-1.4.1/res/values-v22/values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",

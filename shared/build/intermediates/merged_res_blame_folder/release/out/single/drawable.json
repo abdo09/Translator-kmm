@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "net.learning.translator_kmm.shared-merged_res-3:/drawable/indonesian.xml",
+        "source": "net.learning.translator_kmm.shared-androidMain-4:/drawable/indonesian.xml"
+    },
+    {
+        "merged": "net.learning.translator_kmm.shared-merged_res-3:/drawable/arabic.xml",
+        "source": "net.learning.translator_kmm.shared-androidMain-4:/drawable/arabic.xml"
+    },
+    {
+        "merged": "net.learning.translator_kmm.shared-merged_res-3:/drawable/english.xml",
+        "source": "net.learning.translator_kmm.shared-androidMain-4:/drawable/english.xml"
+    },
+    {
+        "merged": "net.learning.translator_kmm.shared-merged_res-3:/drawable/czech.xml",
+        "source": "net.learning.translator_kmm.shared-androidMain-4:/drawable/czech.xml"
+    },
+    {
+        "merged": "net.learning.translator_kmm.shared-merged_res-3:/drawable/polish.xml",
+        "source": "net.learning.translator_kmm.shared-androidMain-4:/drawable/polish.xml"
+    },
+    {
+        "merged": "net.learning.translator_kmm.shared-merged_res-3:/drawable/irish.xml",
+        "source": "net.learning.translator_kmm.shared-androidMain-4:/drawable/irish.xml"
+    },
+    {
+        "merged": "net.learning.translator_kmm.shared-merged_res-3:/drawable/greek.xml",
+        "source": "net.learning.translator_kmm.shared-androidMain-4:/drawable/greek.xml"
+    },
+    {
+        "merged": "net.learning.translator_kmm.shared-merged_res-3:/drawable/dutch.xml",
+        "source": "net.learning.translator_kmm.shared-androidMain-4:/drawable/dutch.xml"
+    },
+    {
+        "merged": "net.learning.translator_kmm.shared-merged_res-3:/drawable/italian.xml",
+        "source": "net.learning.translator_kmm.shared-androidMain-4:/drawable/italian.xml"
+    },
+    {
+        "merged": "net.learning.translator_kmm.shared-merged_res-3:/drawable/french.xml",
+        "source": "net.learning.translator_kmm.shared-androidMain-4:/drawable/french.xml"
+    },
+    {
+        "merged": "net.learning.translator_kmm.shared-merged_res-3:/drawable/turkish.xml",
+        "source": "net.learning.translator_kmm.shared-androidMain-4:/drawable/turkish.xml"
+    },
+    {
+        "merged": "net.learning.translator_kmm.shared-merged_res-3:/drawable/finnish.xml",
+        "source": "net.learning.translator_kmm.shared-androidMain-4:/drawable/finnish.xml"
+    },
+    {
+        "merged": "net.learning.translator_kmm.shared-merged_res-3:/drawable/german.xml",
+        "source": "net.learning.translator_kmm.shared-androidMain-4:/drawable/german.xml"
+    },
+    {
+        "merged": "net.learning.translator_kmm.shared-merged_res-3:/drawable/azerbaijani.xml",
+        "source": "net.learning.translator_kmm.shared-androidMain-4:/drawable/azerbaijani.xml"
+    },
+    {
+        "merged": "net.learning.translator_kmm.shared-merged_res-3:/drawable/hebrew.xml",
+        "source": "net.learning.translator_kmm.shared-androidMain-4:/drawable/hebrew.xml"
+    },
+    {
+        "merged": "net.learning.translator_kmm.shared-merged_res-3:/drawable/swedish.xml",
+        "source": "net.learning.translator_kmm.shared-androidMain-4:/drawable/swedish.xml"
+    },
+    {
+        "merged": "net.learning.translator_kmm.shared-merged_res-3:/drawable/persian.xml",
+        "source": "net.learning.translator_kmm.shared-androidMain-4:/drawable/persian.xml"
+    },
+    {
+        "merged": "net.learning.translator_kmm.shared-merged_res-3:/drawable/spanish.xml",
+        "source": "net.learning.translator_kmm.shared-androidMain-4:/drawable/spanish.xml"
+    },
+    {
+        "merged": "net.learning.translator_kmm.shared-merged_res-3:/drawable/chinese.xml",
+        "source": "net.learning.translator_kmm.shared-androidMain-4:/drawable/chinese.xml"
+    },
+    {
+        "merged": "net.learning.translator_kmm.shared-merged_res-3:/drawable/slovak.xml",
+        "source": "net.learning.translator_kmm.shared-androidMain-4:/drawable/slovak.xml"
+    },
+    {
+        "merged": "net.learning.translator_kmm.shared-merged_res-3:/drawable/portuguese.xml",
+        "source": "net.learning.translator_kmm.shared-androidMain-4:/drawable/portuguese.xml"
+    },
+    {
+        "merged": "net.learning.translator_kmm.shared-merged_res-3:/drawable/russian.xml",
+        "source": "net.learning.translator_kmm.shared-androidMain-4:/drawable/russian.xml"
+    },
+    {
+        "merged": "net.learning.translator_kmm.shared-merged_res-3:/drawable/korean.xml",
+        "source": "net.learning.translator_kmm.shared-androidMain-4:/drawable/korean.xml"
+    },
+    {
+        "merged": "net.learning.translator_kmm.shared-merged_res-3:/drawable/japanese.xml",
+        "source": "net.learning.translator_kmm.shared-androidMain-4:/drawable/japanese.xml"
+    },
+    {
+        "merged": "net.learning.translator_kmm.shared-merged_res-3:/drawable/hindi.xml",
+        "source": "net.learning.translator_kmm.shared-androidMain-4:/drawable/hindi.xml"
+    },
+    {
+        "merged": "net.learning.translator_kmm.shared-merged_res-3:/drawable/danish.xml",
+        "source": "net.learning.translator_kmm.shared-androidMain-4:/drawable/danish.xml"
+    },
+    {
+        "merged": "net.learning.translator_kmm.shared-merged_res-3:/drawable/hungarian.xml",
+        "source": "net.learning.translator_kmm.shared-androidMain-4:/drawable/hungarian.xml"
+    },
+    {
+        "merged": "net.learning.translator_kmm.shared-merged_res-3:/drawable/ukrainian.xml",
+        "source": "net.learning.translator_kmm.shared-androidMain-4:/drawable/ukrainian.xml"
+    }
+]

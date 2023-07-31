@@ -1,0 +1,9 @@
+net.learning.translator_kmm.shared-pngs-0 /Users/speero/AndroidStudioProjects/Translator-kmm/shared/build/generated/res/pngs/release
+net.learning.translator_kmm.shared-resValues-1 /Users/speero/AndroidStudioProjects/Translator-kmm/shared/build/generated/res/resValues/release
+net.learning.translator_kmm.shared-mergeReleaseResources-2 /Users/speero/AndroidStudioProjects/Translator-kmm/shared/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+net.learning.translator_kmm.shared-mergeReleaseResources-3 /Users/speero/AndroidStudioProjects/Translator-kmm/shared/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+net.learning.translator_kmm.shared-merged_res-4 /Users/speero/AndroidStudioProjects/Translator-kmm/shared/build/intermediates/merged_res/release
+net.learning.translator_kmm.shared-androidMain-5 /Users/speero/AndroidStudioProjects/Translator-kmm/shared/src/androidMain/res
+net.learning.translator_kmm.shared-androidRelease-6 /Users/speero/AndroidStudioProjects/Translator-kmm/shared/src/androidRelease/res
+net.learning.translator_kmm.shared-main-7 /Users/speero/AndroidStudioProjects/Translator-kmm/shared/src/main/res
+net.learning.translator_kmm.shared-release-8 /Users/speero/AndroidStudioProjects/Translator-kmm/shared/src/release/res

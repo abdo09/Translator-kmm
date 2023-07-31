@@ -4,7 +4,7 @@
             "outputFile": "net.learning.translator_kmm.android.androidApp-mergeDebugResources-59:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/AbdelrahmanOmer/.gradle/caches/transforms-3/1fc951c9ba2eddc586560d3fbe4b9f2b/transformed/appcompat-1.4.1/res/values-night-v8/values-night-v8.xml",
+                    "source": "/Users/speero/.gradle/caches/transforms-3/1fc951c9ba2eddc586560d3fbe4b9f2b/transformed/appcompat-1.4.1/res/values-night-v8/values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

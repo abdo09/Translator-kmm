@@ -4,7 +4,7 @@
             "outputFile": "net.learning.translator_kmm.android.androidApp-mergeDebugResources-59:/values-watch-v21/values-watch-v21.xml",
             "map": [
                 {
-                    "source": "/Users/AbdelrahmanOmer/.gradle/caches/transforms-3/1fc951c9ba2eddc586560d3fbe4b9f2b/transformed/appcompat-1.4.1/res/values-watch-v21/values-watch-v21.xml",
+                    "source": "/Users/speero/.gradle/caches/transforms-3/1fc951c9ba2eddc586560d3fbe4b9f2b/transformed/appcompat-1.4.1/res/values-watch-v21/values-watch-v21.xml",
                     "from": {
                         "startLines": "2,6,10",
                         "startColumns": "4,4,4",

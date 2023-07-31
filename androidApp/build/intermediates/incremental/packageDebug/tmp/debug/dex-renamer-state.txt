@@ -1,18 +1,18 @@
-#Sun Jul 30 20:00:00 AST 2023
-base.0=/Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
-base.1=/Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/build/intermediates/dex/debug/mergeLibDexDebug/1/classes.dex
-base.10=/Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
-base.11=/Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/build/intermediates/dex/debug/mergeProjectDexDebug/10/classes.dex
-base.12=/Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
-base.13=/Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/build/intermediates/dex/debug/mergeExtDexDebug/classes3.dex
-base.2=/Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/build/intermediates/dex/debug/mergeLibDexDebug/10/classes.dex
-base.3=/Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/build/intermediates/dex/debug/mergeLibDexDebug/12/classes.dex
-base.4=/Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/build/intermediates/dex/debug/mergeLibDexDebug/13/classes.dex
-base.5=/Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/build/intermediates/dex/debug/mergeLibDexDebug/14/classes.dex
-base.6=/Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/build/intermediates/dex/debug/mergeLibDexDebug/15/classes.dex
-base.7=/Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/build/intermediates/dex/debug/mergeLibDexDebug/2/classes.dex
-base.8=/Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/build/intermediates/dex/debug/mergeLibDexDebug/4/classes.dex
-base.9=/Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/build/intermediates/dex/debug/mergeLibDexDebug/7/classes.dex
+#Mon Jul 31 12:16:30 AST 2023
+base.0=/Users/speero/AndroidStudioProjects/Translator-kmm/androidApp/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/Users/speero/AndroidStudioProjects/Translator-kmm/androidApp/build/intermediates/dex/debug/mergeLibDexDebug/1/classes.dex
+base.10=/Users/speero/AndroidStudioProjects/Translator-kmm/androidApp/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.11=/Users/speero/AndroidStudioProjects/Translator-kmm/androidApp/build/intermediates/dex/debug/mergeProjectDexDebug/10/classes.dex
+base.12=/Users/speero/AndroidStudioProjects/Translator-kmm/androidApp/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
+base.13=/Users/speero/AndroidStudioProjects/Translator-kmm/androidApp/build/intermediates/dex/debug/mergeExtDexDebug/classes3.dex
+base.2=/Users/speero/AndroidStudioProjects/Translator-kmm/androidApp/build/intermediates/dex/debug/mergeLibDexDebug/10/classes.dex
+base.3=/Users/speero/AndroidStudioProjects/Translator-kmm/androidApp/build/intermediates/dex/debug/mergeLibDexDebug/12/classes.dex
+base.4=/Users/speero/AndroidStudioProjects/Translator-kmm/androidApp/build/intermediates/dex/debug/mergeLibDexDebug/13/classes.dex
+base.5=/Users/speero/AndroidStudioProjects/Translator-kmm/androidApp/build/intermediates/dex/debug/mergeLibDexDebug/14/classes.dex
+base.6=/Users/speero/AndroidStudioProjects/Translator-kmm/androidApp/build/intermediates/dex/debug/mergeLibDexDebug/15/classes.dex
+base.7=/Users/speero/AndroidStudioProjects/Translator-kmm/androidApp/build/intermediates/dex/debug/mergeLibDexDebug/2/classes.dex
+base.8=/Users/speero/AndroidStudioProjects/Translator-kmm/androidApp/build/intermediates/dex/debug/mergeLibDexDebug/4/classes.dex
+base.9=/Users/speero/AndroidStudioProjects/Translator-kmm/androidApp/build/intermediates/dex/debug/mergeLibDexDebug/7/classes.dex
 path.0=classes.dex
 path.1=1/classes.dex
 path.10=0/classes.dex
