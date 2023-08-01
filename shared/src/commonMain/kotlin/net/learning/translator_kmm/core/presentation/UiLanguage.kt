@@ -1,7 +1,10 @@
-package net.learning.translator_kmm.core.domain.language
+package net.learning.translator_kmm.core.presentation
+
+import net.learning.translator_kmm.core.domain.language.Language
 
 expect class UiLanguage {
-    expect val language: Language
+
+    val language: Language
 
     companion object{
         fun byCode(langCode: String): UiLanguage

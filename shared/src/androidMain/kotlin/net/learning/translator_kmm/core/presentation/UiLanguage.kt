@@ -1,7 +1,8 @@
-package net.learning.translator_kmm.core.domain.language
+package net.learning.translator_kmm.core.presentation
 
 import androidx.annotation.DrawableRes
 import net.learning.translator_kmm.R
+import net.learning.translator_kmm.core.domain.language.Language
 import java.util.Locale
 
 actual class UiLanguage(
@@ -33,7 +34,7 @@ actual class UiLanguage(
             get() = Language.values().map { language ->
                 UiLanguage(
                     language = language,
-                    drawableRes = when(language) {
+                    drawableRes = when (language) {
                         Language.ENGLISH -> R.drawable.english
                         Language.ARABIC -> R.drawable.arabic
                         Language.AZERBAIJANI -> R.drawable.azerbaijani
