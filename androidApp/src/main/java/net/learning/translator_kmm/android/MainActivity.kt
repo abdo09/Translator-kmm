@@ -35,7 +35,9 @@ fun GreetingView(text: String) {
         color = Color.Cyan)
 }
 
-@Preview
+@Preview(
+    showSystemUi = true
+)
 @Composable
 fun DefaultPreview() {
     MyApplicationTheme {

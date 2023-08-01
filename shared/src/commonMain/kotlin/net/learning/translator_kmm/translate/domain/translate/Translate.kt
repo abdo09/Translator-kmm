@@ -1,6 +1,5 @@
 package net.learning.translator_kmm.translate.domain.translate
 
-import io.ktor.client.HttpClient
 import net.learning.translator_kmm.core.domain.language.Language
 import net.learning.translator_kmm.core.domain.util.Resource
 import net.learning.translator_kmm.translate.domain.history.HistoryDataSource

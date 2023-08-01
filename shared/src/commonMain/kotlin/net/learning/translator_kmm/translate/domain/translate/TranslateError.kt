@@ -7,6 +7,6 @@ enum class TranslateError{
     UNKNOWN_ERROR
 }
 
-class TranslationErrorException(private val error:  TranslateError): Exception(
+class TranslationErrorException(val error:  TranslateError): Exception(
     "An error occurred when translating:$error"
 )
