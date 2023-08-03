@@ -6,9 +6,9 @@
 #import <Foundation/NSString.h>
 #import <Foundation/NSValue.h>
 
-@class SharedKtor_client_coreHttpClient, SharedLanguage, SharedKotlinEnumCompanion, SharedKotlinEnum<E>, SharedTranslateError, SharedKotlinArray<T>, SharedKotlinThrowable, SharedKotlinException, SharedHistoryItem, SharedCommonFlow<T>, SharedTranslateDtoCompanion, SharedTranslateDto, SharedTranslatedDtoCompanion, SharedTranslatedDto, SharedTranslatorDatabaseCompanion, SharedKotlinx_coroutines_coreCoroutineDispatcher, SharedCommonStateFlow<T>, SharedCommonMutableStateFlow<T>, SharedLanguageCompanion, SharedHistoryEntity, SharedRuntimeQuery<__covariant RowType>, SharedKtor_client_coreHttpClientEngineConfig, SharedKtor_client_coreHttpClientConfig<T>, SharedKtor_eventsEvents, SharedKtor_client_coreHttpReceivePipeline, SharedKtor_client_coreHttpRequestPipeline, SharedKtor_client_coreHttpResponsePipeline, SharedKtor_client_coreHttpSendPipeline, SharedKotlinRuntimeException, SharedKotlinIllegalStateException, SharedRuntimeTransacterTransaction, SharedKotlinAbstractCoroutineContextElement, SharedKotlinx_coroutines_coreCoroutineDispatcherKey, SharedKtor_client_coreHttpRequestData, SharedKtor_client_coreHttpResponseData, SharedKtor_client_coreProxyConfig, SharedKtor_utilsAttributeKey<T>, SharedKtor_eventsEventDefinition<T>, SharedKtor_utilsPipelinePhase, SharedKtor_utilsPipeline<TSubject, TContext>, SharedKtor_client_coreHttpReceivePipelinePhases, SharedKtor_client_coreHttpResponse, SharedKotlinUnit, SharedKtor_client_coreHttpRequestPipelinePhases, SharedKtor_client_coreHttpRequestBuilder, SharedKtor_client_coreHttpResponsePipelinePhases, SharedKtor_client_coreHttpResponseContainer, SharedKtor_client_coreHttpClientCall, SharedKtor_client_coreHttpSendPipelinePhases, SharedKotlinx_serialization_coreSerializersModule, SharedKotlinx_serialization_coreSerialKind, SharedKotlinNothing, SharedKotlinByteArray, SharedKotlinAbstractCoroutineContextKey<B, E>, SharedKtor_httpUrl, SharedKtor_httpHttpMethod, SharedKtor_httpOutgoingContent, SharedKtor_httpHttpStatusCode, SharedKtor_utilsGMTDate, SharedKtor_httpHttpProtocolVersion, SharedKtor_httpHeadersBuilder, SharedKtor_client_coreHttpRequestBuilderCompanion, SharedKtor_httpURLBuilder, SharedKtor_utilsTypeInfo, SharedKtor_client_coreHttpClientCallCompanion, SharedKotlinByteIterator, SharedKtor_httpUrlCompanion, SharedKtor_httpURLProtocol, SharedKtor_httpHttpMethodCompanion, SharedKtor_httpContentType, SharedKotlinCancellationException, SharedKtor_httpHttpStatusCodeCompanion, SharedKtor_utilsGMTDateCompanion, SharedKtor_utilsWeekDay, SharedKtor_utilsMonth, SharedKtor_httpHttpProtocolVersionCompanion, SharedKtor_ioMemory, SharedKtor_ioChunkBuffer, SharedKtor_ioBuffer, SharedKtor_ioByteReadPacket, SharedKtor_utilsStringValuesBuilderImpl, SharedKtor_httpURLBuilderCompanion, SharedKtor_httpURLProtocolCompanion, SharedKtor_httpHeaderValueParam, SharedKtor_httpHeaderValueWithParametersCompanion, SharedKtor_httpHeaderValueWithParameters, SharedKtor_httpContentTypeCompanion, SharedKtor_utilsWeekDayCompanion, SharedKtor_utilsMonthCompanion, SharedKtor_ioMemoryCompanion, SharedKtor_ioBufferCompanion, SharedKtor_ioChunkBufferCompanion, SharedKtor_ioInputCompanion, SharedKtor_ioInput, SharedKtor_ioByteReadPacketCompanion, SharedKotlinKTypeProjection, SharedKotlinx_coroutines_coreAtomicDesc, SharedKotlinx_coroutines_coreLockFreeLinkedListNodePrepareOp, SharedKotlinKVariance, SharedKotlinKTypeProjectionCompanion, SharedKotlinx_coroutines_coreAtomicOp<__contravariant T>, SharedKotlinx_coroutines_coreOpDescriptor, SharedKotlinx_coroutines_coreLockFreeLinkedListNode, SharedKotlinx_coroutines_coreLockFreeLinkedListNodeAbstractAtomicDesc, SharedKotlinx_coroutines_coreLockFreeLinkedListNodeAddLastDesc<T>, SharedKotlinx_coroutines_coreLockFreeLinkedListNodeRemoveFirstDesc<T>;
+@class SharedKtor_client_coreHttpClient, SharedLanguage, SharedResource<T>, SharedKotlinEnumCompanion, SharedKotlinEnum<E>, SharedTranslateError, SharedKotlinArray<T>, SharedKotlinThrowable, SharedKotlinException, SharedHistoryItem, SharedCommonFlow<T>, SharedTranslateDtoCompanion, SharedTranslateDto, SharedTranslatedDtoCompanion, SharedTranslatedDto, SharedTranslatorDatabaseCompanion, SharedUiLanguageCompanion, SharedUiLanguage, SharedKotlinx_coroutines_coreCoroutineDispatcher, SharedCommonStateFlow<T>, SharedCommonMutableStateFlow<T>, SharedLanguageCompanion, SharedTranslateEvent, SharedTranslateEventChangeTranslationText, SharedTranslateEventChooseFromLanguage, SharedTranslateEventChooseToLanguage, SharedTranslateEventCloseTranslation, SharedTranslateEventEditTranslation, SharedTranslateEventOnErrorSeen, SharedTranslateEventOpenFromLanguageDropDown, SharedTranslateEventOpenToLanguageDropDown, SharedTranslateEventRecordAudio, SharedUiHistoryItem, SharedTranslateEventSelectHistoryItem, SharedTranslateEventStopChoosingLanguage, SharedTranslateEventSubmitVoiceResult, SharedTranslateEventSwapLanguages, SharedTranslateEventTranslate, SharedTranslateState, SharedTranslate, SharedHistoryEntity, SharedRuntimeQuery<__covariant RowType>, SharedKtor_client_coreHttpClientEngineConfig, SharedKtor_client_coreHttpClientConfig<T>, SharedKtor_eventsEvents, SharedKtor_client_coreHttpReceivePipeline, SharedKtor_client_coreHttpRequestPipeline, SharedKtor_client_coreHttpResponsePipeline, SharedKtor_client_coreHttpSendPipeline, SharedKotlinRuntimeException, SharedKotlinIllegalStateException, SharedRuntimeTransacterTransaction, SharedKotlinAbstractCoroutineContextElement, SharedKotlinx_coroutines_coreCoroutineDispatcherKey, SharedKtor_client_coreHttpRequestData, SharedKtor_client_coreHttpResponseData, SharedKtor_client_coreProxyConfig, SharedKtor_utilsAttributeKey<T>, SharedKtor_eventsEventDefinition<T>, SharedKtor_utilsPipelinePhase, SharedKtor_utilsPipeline<TSubject, TContext>, SharedKtor_client_coreHttpReceivePipelinePhases, SharedKtor_client_coreHttpResponse, SharedKotlinUnit, SharedKtor_client_coreHttpRequestPipelinePhases, SharedKtor_client_coreHttpRequestBuilder, SharedKtor_client_coreHttpResponsePipelinePhases, SharedKtor_client_coreHttpResponseContainer, SharedKtor_client_coreHttpClientCall, SharedKtor_client_coreHttpSendPipelinePhases, SharedKotlinx_serialization_coreSerializersModule, SharedKotlinx_serialization_coreSerialKind, SharedKotlinNothing, SharedKotlinByteArray, SharedKotlinAbstractCoroutineContextKey<B, E>, SharedKtor_httpUrl, SharedKtor_httpHttpMethod, SharedKtor_httpOutgoingContent, SharedKtor_httpHttpStatusCode, SharedKtor_utilsGMTDate, SharedKtor_httpHttpProtocolVersion, SharedKtor_httpHeadersBuilder, SharedKtor_client_coreHttpRequestBuilderCompanion, SharedKtor_httpURLBuilder, SharedKtor_utilsTypeInfo, SharedKtor_client_coreHttpClientCallCompanion, SharedKotlinByteIterator, SharedKtor_httpUrlCompanion, SharedKtor_httpURLProtocol, SharedKtor_httpHttpMethodCompanion, SharedKtor_httpContentType, SharedKotlinCancellationException, SharedKtor_httpHttpStatusCodeCompanion, SharedKtor_utilsGMTDateCompanion, SharedKtor_utilsWeekDay, SharedKtor_utilsMonth, SharedKtor_httpHttpProtocolVersionCompanion, SharedKtor_ioMemory, SharedKtor_ioChunkBuffer, SharedKtor_ioBuffer, SharedKtor_ioByteReadPacket, SharedKtor_utilsStringValuesBuilderImpl, SharedKtor_httpURLBuilderCompanion, SharedKtor_httpURLProtocolCompanion, SharedKtor_httpHeaderValueParam, SharedKtor_httpHeaderValueWithParametersCompanion, SharedKtor_httpHeaderValueWithParameters, SharedKtor_httpContentTypeCompanion, SharedKtor_utilsWeekDayCompanion, SharedKtor_utilsMonthCompanion, SharedKtor_ioMemoryCompanion, SharedKtor_ioBufferCompanion, SharedKtor_ioChunkBufferCompanion, SharedKtor_ioInputCompanion, SharedKtor_ioInput, SharedKtor_ioByteReadPacketCompanion, SharedKotlinKTypeProjection, SharedKotlinx_coroutines_coreAtomicDesc, SharedKotlinx_coroutines_coreLockFreeLinkedListNodePrepareOp, SharedKotlinKVariance, SharedKotlinKTypeProjectionCompanion, SharedKotlinx_coroutines_coreAtomicOp<__contravariant T>, SharedKotlinx_coroutines_coreOpDescriptor, SharedKotlinx_coroutines_coreLockFreeLinkedListNode, SharedKotlinx_coroutines_coreLockFreeLinkedListNodeAbstractAtomicDesc, SharedKotlinx_coroutines_coreLockFreeLinkedListNodeAddLastDesc<T>, SharedKotlinx_coroutines_coreLockFreeLinkedListNodeRemoveFirstDesc<T>;
 
-@protocol SharedPlatform, SharedKotlinComparable, SharedHistoryDataSource, SharedTranslatorDatabase, SharedTranslateClient, SharedKotlinx_serialization_coreKSerializer, SharedRuntimeSqlDriver, SharedTranslatorQueries, SharedRuntimeTransactionWithoutReturn, SharedRuntimeTransactionWithReturn, SharedRuntimeTransacter, SharedRuntimeSqlDriverSchema, SharedKotlinx_coroutines_coreFlowCollector, SharedKotlinx_coroutines_coreFlow, SharedKotlinx_coroutines_coreDisposableHandle, SharedKotlinx_coroutines_coreCoroutineScope, SharedKotlinx_coroutines_coreSharedFlow, SharedKotlinx_coroutines_coreStateFlow, SharedKotlinx_coroutines_coreMutableSharedFlow, SharedKotlinx_coroutines_coreMutableStateFlow, SharedKotlinCoroutineContext, SharedKtor_ioCloseable, SharedKtor_client_coreHttpClientEngine, SharedKtor_client_coreHttpClientEngineCapability, SharedKtor_utilsAttributes, SharedKotlinIterator, SharedKotlinx_serialization_coreEncoder, SharedKotlinx_serialization_coreSerialDescriptor, SharedKotlinx_serialization_coreSerializationStrategy, SharedKotlinx_serialization_coreDecoder, SharedKotlinx_serialization_coreDeserializationStrategy, SharedRuntimeSqlPreparedStatement, SharedRuntimeSqlCursor, SharedRuntimeCloseable, SharedRuntimeTransactionCallbacks, SharedKotlinCoroutineContextKey, SharedKotlinCoroutineContextElement, SharedKotlinContinuation, SharedKotlinContinuationInterceptor, SharedKotlinx_coroutines_coreRunnable, SharedRuntimeQueryListener, SharedKtor_client_coreHttpClientPlugin, SharedKotlinSuspendFunction2, SharedKotlinx_serialization_coreCompositeEncoder, SharedKotlinAnnotation, SharedKotlinx_serialization_coreCompositeDecoder, SharedKtor_httpHeaders, SharedKotlinx_coroutines_coreJob, SharedKotlinFunction, SharedKtor_httpHttpMessage, SharedKtor_ioByteReadChannel, SharedKtor_httpHttpMessageBuilder, SharedKtor_client_coreHttpRequest, SharedKotlinx_serialization_coreSerializersModuleCollector, SharedKotlinKClass, SharedKtor_httpParameters, SharedKotlinMapEntry, SharedKtor_utilsStringValues, SharedKotlinx_coroutines_coreChildHandle, SharedKotlinx_coroutines_coreChildJob, SharedKotlinSequence, SharedKotlinx_coroutines_coreSelectClause0, SharedKtor_ioReadSession, SharedKotlinSuspendFunction1, SharedKotlinAppendable, SharedKtor_utilsStringValuesBuilder, SharedKtor_httpParametersBuilder, SharedKotlinKType, SharedKotlinKDeclarationContainer, SharedKotlinKAnnotatedElement, SharedKotlinKClassifier, SharedKotlinx_coroutines_coreParentJob, SharedKotlinx_coroutines_coreSelectInstance, SharedKotlinSuspendFunction0, SharedKtor_ioObjectPool;
+@protocol SharedPlatform, SharedTranslateClient, SharedHistoryDataSource, SharedKotlinComparable, SharedTranslatorDatabase, SharedKotlinx_serialization_coreKSerializer, SharedRuntimeSqlDriver, SharedTranslatorQueries, SharedRuntimeTransactionWithoutReturn, SharedRuntimeTransactionWithReturn, SharedRuntimeTransacter, SharedRuntimeSqlDriverSchema, SharedKotlinx_coroutines_coreFlowCollector, SharedKotlinx_coroutines_coreFlow, SharedKotlinx_coroutines_coreDisposableHandle, SharedKotlinx_coroutines_coreCoroutineScope, SharedKotlinx_coroutines_coreSharedFlow, SharedKotlinx_coroutines_coreStateFlow, SharedKotlinx_coroutines_coreMutableSharedFlow, SharedKotlinx_coroutines_coreMutableStateFlow, SharedKotlinCoroutineContext, SharedKtor_ioCloseable, SharedKtor_client_coreHttpClientEngine, SharedKtor_client_coreHttpClientEngineCapability, SharedKtor_utilsAttributes, SharedKotlinIterator, SharedKotlinx_serialization_coreEncoder, SharedKotlinx_serialization_coreSerialDescriptor, SharedKotlinx_serialization_coreSerializationStrategy, SharedKotlinx_serialization_coreDecoder, SharedKotlinx_serialization_coreDeserializationStrategy, SharedRuntimeSqlPreparedStatement, SharedRuntimeSqlCursor, SharedRuntimeCloseable, SharedRuntimeTransactionCallbacks, SharedKotlinCoroutineContextKey, SharedKotlinCoroutineContextElement, SharedKotlinContinuation, SharedKotlinContinuationInterceptor, SharedKotlinx_coroutines_coreRunnable, SharedRuntimeQueryListener, SharedKtor_client_coreHttpClientPlugin, SharedKotlinSuspendFunction2, SharedKotlinx_serialization_coreCompositeEncoder, SharedKotlinAnnotation, SharedKotlinx_serialization_coreCompositeDecoder, SharedKtor_httpHeaders, SharedKotlinx_coroutines_coreJob, SharedKotlinFunction, SharedKtor_httpHttpMessage, SharedKtor_ioByteReadChannel, SharedKtor_httpHttpMessageBuilder, SharedKtor_client_coreHttpRequest, SharedKotlinx_serialization_coreSerializersModuleCollector, SharedKotlinKClass, SharedKtor_httpParameters, SharedKotlinMapEntry, SharedKtor_utilsStringValues, SharedKotlinx_coroutines_coreChildHandle, SharedKotlinx_coroutines_coreChildJob, SharedKotlinSequence, SharedKotlinx_coroutines_coreSelectClause0, SharedKtor_ioReadSession, SharedKotlinSuspendFunction1, SharedKotlinAppendable, SharedKtor_utilsStringValuesBuilder, SharedKtor_httpParametersBuilder, SharedKotlinKType, SharedKotlinKDeclarationContainer, SharedKotlinKAnnotatedElement, SharedKotlinKClassifier, SharedKotlinx_coroutines_coreParentJob, SharedKotlinx_coroutines_coreSelectInstance, SharedKotlinSuspendFunction0, SharedKtor_ioObjectPool;
 
 NS_ASSUME_NONNULL_BEGIN
 #pragma clang diagnostic push
@@ -174,6 +174,18 @@ __attribute__((swift_name("HttpClientFactory")))
 - (SharedKtor_client_coreHttpClient *)create __attribute__((swift_name("create()")));
 @end
 
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("Translate")))
+@interface SharedTranslate : SharedBase
+- (instancetype)initWithClient:(id<SharedTranslateClient>)client dataSource:(id<SharedHistoryDataSource>)dataSource __attribute__((swift_name("init(client:dataSource:)"))) __attribute__((objc_designated_initializer));
+
+/**
+ * @note This method converts instances of CancellationException to errors.
+ * Other uncaught Kotlin exceptions are fatal.
+*/
+- (void)executeFromLanguage:(SharedLanguage *)fromLanguage fromText:(NSString *)fromText toLanguage:(SharedLanguage *)toLanguage completionHandler:(void (^)(SharedResource<NSString *> * _Nullable, NSError * _Nullable))completionHandler __attribute__((swift_name("execute(fromLanguage:fromText:toLanguage:completionHandler:)")));
+@end
+
 __attribute__((swift_name("TranslateClient")))
 @protocol SharedTranslateClient
 @required
@@ -182,7 +194,7 @@ __attribute__((swift_name("TranslateClient")))
  * @note This method converts instances of CancellationException to errors.
  * Other uncaught Kotlin exceptions are fatal.
 */
-- (void)translateFromLanguage:(SharedLanguage *)fromLanguage textToTranslate:(NSString *)textToTranslate toLanguage:(SharedLanguage *)toLanguage completionHandler:(void (^)(NSString * _Nullable, NSError * _Nullable))completionHandler __attribute__((swift_name("translate(fromLanguage:textToTranslate:toLanguage:completionHandler:)")));
+- (void)translateFromLanguage:(SharedLanguage *)fromLanguage fromText:(NSString *)fromText toLanguage:(SharedLanguage *)toLanguage completionHandler:(void (^)(NSString * _Nullable, NSError * _Nullable))completionHandler __attribute__((swift_name("translate(fromLanguage:fromText:toLanguage:completionHandler:)")));
 @end
 
 __attribute__((swift_name("KotlinComparable")))
@@ -249,6 +261,7 @@ __attribute__((swift_name("TranslationErrorException")))
 - (instancetype)initWithMessage:(NSString * _Nullable)message __attribute__((swift_name("init(message:)"))) __attribute__((objc_designated_initializer)) __attribute__((unavailable));
 - (instancetype)initWithMessage:(NSString * _Nullable)message cause:(SharedKotlinThrowable * _Nullable)cause __attribute__((swift_name("init(message:cause:)"))) __attribute__((objc_designated_initializer)) __attribute__((unavailable));
 - (instancetype)initWithCause:(SharedKotlinThrowable * _Nullable)cause __attribute__((swift_name("init(cause:)"))) __attribute__((objc_designated_initializer)) __attribute__((unavailable));
+@property (readonly) SharedTranslateError *error __attribute__((swift_name("error")));
 @end
 
 __attribute__((swift_name("HistoryDataSource")))
@@ -300,7 +313,7 @@ __attribute__((swift_name("KtorTranslateClient")))
  * @note This method converts instances of CancellationException to errors.
  * Other uncaught Kotlin exceptions are fatal.
 */
-- (void)translateFromLanguage:(SharedLanguage *)fromLanguage textToTranslate:(NSString *)textToTranslate toLanguage:(SharedLanguage *)toLanguage completionHandler:(void (^)(NSString * _Nullable, NSError * _Nullable))completionHandler __attribute__((swift_name("translate(fromLanguage:textToTranslate:toLanguage:completionHandler:)")));
+- (void)translateFromLanguage:(SharedLanguage *)fromLanguage fromText:(NSString *)fromText toLanguage:(SharedLanguage *)toLanguage completionHandler:(void (^)(NSString * _Nullable, NSError * _Nullable))completionHandler __attribute__((swift_name("translate(fromLanguage:fromText:toLanguage:completionHandler:)")));
 @end
 
 __attribute__((objc_subclassing_restricted))
@@ -379,6 +392,26 @@ __attribute__((swift_name("TranslatorDatabaseCompanion")))
 @property (class, readonly, getter=shared) SharedTranslatorDatabaseCompanion *shared __attribute__((swift_name("shared")));
 - (id<SharedTranslatorDatabase>)invokeDriver:(id<SharedRuntimeSqlDriver>)driver __attribute__((swift_name("invoke(driver:)")));
 @property (readonly) id<SharedRuntimeSqlDriverSchema> Schema __attribute__((swift_name("Schema")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("UiLanguage")))
+@interface SharedUiLanguage : SharedBase
+- (instancetype)initWithLanguage:(SharedLanguage *)language imageName:(NSString *)imageName __attribute__((swift_name("init(language:imageName:)"))) __attribute__((objc_designated_initializer));
+@property (class, readonly, getter=companion) SharedUiLanguageCompanion *companion __attribute__((swift_name("companion")));
+@property (readonly) NSString *imageName __attribute__((swift_name("imageName")));
+@property (readonly) SharedLanguage *language __attribute__((swift_name("language")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("UiLanguage.Companion")))
+@interface SharedUiLanguageCompanion : SharedBase
++ (instancetype)alloc __attribute__((unavailable));
++ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
++ (instancetype)companion __attribute__((swift_name("init()")));
+@property (class, readonly, getter=shared) SharedUiLanguageCompanion *shared __attribute__((swift_name("shared")));
+- (SharedUiLanguage *)byCodeLangCode:(NSString *)langCode __attribute__((swift_name("byCode(langCode:)")));
+@property (readonly) NSArray<SharedUiLanguage *> *allLanguages __attribute__((swift_name("allLanguages")));
 @end
 
 __attribute__((swift_name("Kotlinx_coroutines_coreFlow")))
@@ -499,6 +532,24 @@ __attribute__((swift_name("IOSMutableStateFlow")))
 - (instancetype)initWithFlow:(id<SharedKotlinx_coroutines_coreMutableStateFlow>)flow __attribute__((swift_name("init(flow:)"))) __attribute__((objc_designated_initializer)) __attribute__((unavailable));
 @end
 
+__attribute__((swift_name("Resource")))
+@interface SharedResource<T> : SharedBase
+@property (readonly) T _Nullable data __attribute__((swift_name("data")));
+@property (readonly) SharedKotlinThrowable * _Nullable throwable __attribute__((swift_name("throwable")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("ResourceError")))
+@interface SharedResourceError<T> : SharedResource<T>
+- (instancetype)initWithThrowable:(SharedKotlinThrowable * _Nullable)throwable __attribute__((swift_name("init(throwable:)"))) __attribute__((objc_designated_initializer));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("ResourceSuccess")))
+@interface SharedResourceSuccess<T> : SharedResource<T>
+- (instancetype)initWithData:(T _Nullable)data __attribute__((swift_name("init(data:)"))) __attribute__((objc_designated_initializer));
+@end
+
 __attribute__((objc_subclassing_restricted))
 __attribute__((swift_name("Language")))
 @interface SharedLanguage : SharedKotlinEnum<SharedLanguage *>
@@ -547,6 +598,188 @@ __attribute__((swift_name("Language.Companion")))
 + (instancetype)companion __attribute__((swift_name("init()")));
 @property (class, readonly, getter=shared) SharedLanguageCompanion *shared __attribute__((swift_name("shared")));
 - (SharedLanguage *)byCodeCode:(NSString *)code __attribute__((swift_name("byCode(code:)")));
+@end
+
+__attribute__((swift_name("TranslateEvent")))
+@interface SharedTranslateEvent : SharedBase
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("TranslateEvent.ChangeTranslationText")))
+@interface SharedTranslateEventChangeTranslationText : SharedTranslateEvent
+- (instancetype)initWithText:(NSString *)text __attribute__((swift_name("init(text:)"))) __attribute__((objc_designated_initializer));
+- (SharedTranslateEventChangeTranslationText *)doCopyText:(NSString *)text __attribute__((swift_name("doCopy(text:)")));
+- (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
+- (NSUInteger)hash __attribute__((swift_name("hash()")));
+- (NSString *)description __attribute__((swift_name("description()")));
+@property (readonly) NSString *text __attribute__((swift_name("text")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("TranslateEvent.ChooseFromLanguage")))
+@interface SharedTranslateEventChooseFromLanguage : SharedTranslateEvent
+- (instancetype)initWithLanguage:(SharedUiLanguage *)language __attribute__((swift_name("init(language:)"))) __attribute__((objc_designated_initializer));
+- (SharedTranslateEventChooseFromLanguage *)doCopyLanguage:(SharedUiLanguage *)language __attribute__((swift_name("doCopy(language:)")));
+- (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
+- (NSUInteger)hash __attribute__((swift_name("hash()")));
+- (NSString *)description __attribute__((swift_name("description()")));
+@property (readonly) SharedUiLanguage *language __attribute__((swift_name("language")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("TranslateEvent.ChooseToLanguage")))
+@interface SharedTranslateEventChooseToLanguage : SharedTranslateEvent
+- (instancetype)initWithLanguage:(SharedUiLanguage *)language __attribute__((swift_name("init(language:)"))) __attribute__((objc_designated_initializer));
+- (SharedTranslateEventChooseToLanguage *)doCopyLanguage:(SharedUiLanguage *)language __attribute__((swift_name("doCopy(language:)")));
+- (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
+- (NSUInteger)hash __attribute__((swift_name("hash()")));
+- (NSString *)description __attribute__((swift_name("description()")));
+@property (readonly) SharedUiLanguage *language __attribute__((swift_name("language")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("TranslateEvent.CloseTranslation")))
+@interface SharedTranslateEventCloseTranslation : SharedTranslateEvent
++ (instancetype)alloc __attribute__((unavailable));
++ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
++ (instancetype)closeTranslation __attribute__((swift_name("init()")));
+@property (class, readonly, getter=shared) SharedTranslateEventCloseTranslation *shared __attribute__((swift_name("shared")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("TranslateEvent.EditTranslation")))
+@interface SharedTranslateEventEditTranslation : SharedTranslateEvent
++ (instancetype)alloc __attribute__((unavailable));
++ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
++ (instancetype)editTranslation __attribute__((swift_name("init()")));
+@property (class, readonly, getter=shared) SharedTranslateEventEditTranslation *shared __attribute__((swift_name("shared")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("TranslateEvent.OnErrorSeen")))
+@interface SharedTranslateEventOnErrorSeen : SharedTranslateEvent
++ (instancetype)alloc __attribute__((unavailable));
++ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
++ (instancetype)onErrorSeen __attribute__((swift_name("init()")));
+@property (class, readonly, getter=shared) SharedTranslateEventOnErrorSeen *shared __attribute__((swift_name("shared")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("TranslateEvent.OpenFromLanguageDropDown")))
+@interface SharedTranslateEventOpenFromLanguageDropDown : SharedTranslateEvent
++ (instancetype)alloc __attribute__((unavailable));
++ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
++ (instancetype)openFromLanguageDropDown __attribute__((swift_name("init()")));
+@property (class, readonly, getter=shared) SharedTranslateEventOpenFromLanguageDropDown *shared __attribute__((swift_name("shared")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("TranslateEvent.OpenToLanguageDropDown")))
+@interface SharedTranslateEventOpenToLanguageDropDown : SharedTranslateEvent
++ (instancetype)alloc __attribute__((unavailable));
++ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
++ (instancetype)openToLanguageDropDown __attribute__((swift_name("init()")));
+@property (class, readonly, getter=shared) SharedTranslateEventOpenToLanguageDropDown *shared __attribute__((swift_name("shared")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("TranslateEvent.RecordAudio")))
+@interface SharedTranslateEventRecordAudio : SharedTranslateEvent
++ (instancetype)alloc __attribute__((unavailable));
++ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
++ (instancetype)recordAudio __attribute__((swift_name("init()")));
+@property (class, readonly, getter=shared) SharedTranslateEventRecordAudio *shared __attribute__((swift_name("shared")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("TranslateEvent.SelectHistoryItem")))
+@interface SharedTranslateEventSelectHistoryItem : SharedTranslateEvent
+- (instancetype)initWithItem:(SharedUiHistoryItem *)item __attribute__((swift_name("init(item:)"))) __attribute__((objc_designated_initializer));
+- (SharedTranslateEventSelectHistoryItem *)doCopyItem:(SharedUiHistoryItem *)item __attribute__((swift_name("doCopy(item:)")));
+- (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
+- (NSUInteger)hash __attribute__((swift_name("hash()")));
+- (NSString *)description __attribute__((swift_name("description()")));
+@property (readonly) SharedUiHistoryItem *item __attribute__((swift_name("item")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("TranslateEvent.StopChoosingLanguage")))
+@interface SharedTranslateEventStopChoosingLanguage : SharedTranslateEvent
++ (instancetype)alloc __attribute__((unavailable));
++ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
++ (instancetype)stopChoosingLanguage __attribute__((swift_name("init()")));
+@property (class, readonly, getter=shared) SharedTranslateEventStopChoosingLanguage *shared __attribute__((swift_name("shared")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("TranslateEvent.SubmitVoiceResult")))
+@interface SharedTranslateEventSubmitVoiceResult : SharedTranslateEvent
+- (instancetype)initWithResult:(NSString * _Nullable)result __attribute__((swift_name("init(result:)"))) __attribute__((objc_designated_initializer));
+- (SharedTranslateEventSubmitVoiceResult *)doCopyResult:(NSString * _Nullable)result __attribute__((swift_name("doCopy(result:)")));
+- (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
+- (NSUInteger)hash __attribute__((swift_name("hash()")));
+- (NSString *)description __attribute__((swift_name("description()")));
+@property (readonly) NSString * _Nullable result __attribute__((swift_name("result")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("TranslateEvent.SwapLanguages")))
+@interface SharedTranslateEventSwapLanguages : SharedTranslateEvent
++ (instancetype)alloc __attribute__((unavailable));
++ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
++ (instancetype)swapLanguages __attribute__((swift_name("init()")));
+@property (class, readonly, getter=shared) SharedTranslateEventSwapLanguages *shared __attribute__((swift_name("shared")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("TranslateEvent.Translate")))
+@interface SharedTranslateEventTranslate : SharedTranslateEvent
++ (instancetype)alloc __attribute__((unavailable));
++ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
++ (instancetype)translate __attribute__((swift_name("init()")));
+@property (class, readonly, getter=shared) SharedTranslateEventTranslate *shared __attribute__((swift_name("shared")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("TranslateState")))
+@interface SharedTranslateState : SharedBase
+- (instancetype)initWithFromText:(NSString *)fromText toText:(NSString * _Nullable)toText isTranslating:(BOOL)isTranslating fromLanguage:(SharedUiLanguage *)fromLanguage toLanguage:(SharedUiLanguage *)toLanguage isChoosingFromLanguage:(BOOL)isChoosingFromLanguage isChoosingToLanguage:(BOOL)isChoosingToLanguage error:(SharedTranslateError * _Nullable)error history:(NSArray<SharedUiHistoryItem *> *)history __attribute__((swift_name("init(fromText:toText:isTranslating:fromLanguage:toLanguage:isChoosingFromLanguage:isChoosingToLanguage:error:history:)"))) __attribute__((objc_designated_initializer));
+- (SharedTranslateState *)doCopyFromText:(NSString *)fromText toText:(NSString * _Nullable)toText isTranslating:(BOOL)isTranslating fromLanguage:(SharedUiLanguage *)fromLanguage toLanguage:(SharedUiLanguage *)toLanguage isChoosingFromLanguage:(BOOL)isChoosingFromLanguage isChoosingToLanguage:(BOOL)isChoosingToLanguage error:(SharedTranslateError * _Nullable)error history:(NSArray<SharedUiHistoryItem *> *)history __attribute__((swift_name("doCopy(fromText:toText:isTranslating:fromLanguage:toLanguage:isChoosingFromLanguage:isChoosingToLanguage:error:history:)")));
+- (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
+- (NSUInteger)hash __attribute__((swift_name("hash()")));
+- (NSString *)description __attribute__((swift_name("description()")));
+@property (readonly) SharedTranslateError * _Nullable error __attribute__((swift_name("error")));
+@property (readonly) SharedUiLanguage *fromLanguage __attribute__((swift_name("fromLanguage")));
+@property (readonly) NSString *fromText __attribute__((swift_name("fromText")));
+@property (readonly) NSArray<SharedUiHistoryItem *> *history __attribute__((swift_name("history")));
+@property (readonly) BOOL isChoosingFromLanguage __attribute__((swift_name("isChoosingFromLanguage")));
+@property (readonly) BOOL isChoosingToLanguage __attribute__((swift_name("isChoosingToLanguage")));
+@property (readonly) BOOL isTranslating __attribute__((swift_name("isTranslating")));
+@property (readonly) SharedUiLanguage *toLanguage __attribute__((swift_name("toLanguage")));
+@property (readonly) NSString * _Nullable toText __attribute__((swift_name("toText")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("TranslateViewModel")))
+@interface SharedTranslateViewModel : SharedBase
+- (instancetype)initWithTranslate:(SharedTranslate *)translate historyDataSource:(id<SharedHistoryDataSource>)historyDataSource coroutineScope:(id<SharedKotlinx_coroutines_coreCoroutineScope> _Nullable)coroutineScope __attribute__((swift_name("init(translate:historyDataSource:coroutineScope:)"))) __attribute__((objc_designated_initializer));
+- (void)onEventEvent:(SharedTranslateEvent *)event __attribute__((swift_name("onEvent(event:)")));
+@property (readonly) SharedCommonStateFlow<SharedTranslateState *> *state __attribute__((swift_name("state")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("UiHistoryItem")))
+@interface SharedUiHistoryItem : SharedBase
+- (instancetype)initWithId:(int64_t)id fromText:(NSString *)fromText toText:(NSString *)toText fromLanguage:(SharedUiLanguage *)fromLanguage toLanguage:(SharedUiLanguage *)toLanguage __attribute__((swift_name("init(id:fromText:toText:fromLanguage:toLanguage:)"))) __attribute__((objc_designated_initializer));
+- (SharedUiHistoryItem *)doCopyId:(int64_t)id fromText:(NSString *)fromText toText:(NSString *)toText fromLanguage:(SharedUiLanguage *)fromLanguage toLanguage:(SharedUiLanguage *)toLanguage __attribute__((swift_name("doCopy(id:fromText:toText:fromLanguage:toLanguage:)")));
+- (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
+- (NSUInteger)hash __attribute__((swift_name("hash()")));
+- (NSString *)description __attribute__((swift_name("description()")));
+@property (readonly) SharedUiLanguage *fromLanguage __attribute__((swift_name("fromLanguage")));
+@property (readonly) NSString *fromText __attribute__((swift_name("fromText")));
+@property (readonly) int64_t id __attribute__((swift_name("id")));
+@property (readonly) SharedUiLanguage *toLanguage __attribute__((swift_name("toLanguage")));
+@property (readonly) NSString *toText __attribute__((swift_name("toText")));
 @end
 
 __attribute__((objc_subclassing_restricted))

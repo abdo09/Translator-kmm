@@ -1,0 +1,49 @@
+<changelist name="Uncommitted_changes_before_Update_at_01_08_2023_AD,_7_24_PM_[Changes]" date="1690907090266" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_08_2023_AD,_7_24_PM_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 01/08/2023 AD, 7:24 PM [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="buildSrc/.gradle/file-system.probe" />
+    <option name="AFTER_PATH" value="buildSrc/.gradle/file-system.probe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_08_2023_AD,_7_24_PM_[Changes]/file-system.probe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/file-system.probe" />
+    <option name="AFTER_PATH" value=".gradle/file-system.probe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_08_2023_AD,_7_24_PM_[Changes]/file-system1.probe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/8.0.2/fileHashes/fileHashes.bin" />
+    <option name="AFTER_PATH" value=".gradle/8.0.2/fileHashes/fileHashes.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_08_2023_AD,_7_24_PM_[Changes]/fileHashes.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/8.0.2/executionHistory/executionHistory.bin" />
+    <option name="AFTER_PATH" value=".gradle/8.0.2/executionHistory/executionHistory.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_08_2023_AD,_7_24_PM_[Changes]/executionHistory.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="buildSrc/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+    <option name="AFTER_PATH" value="buildSrc/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_08_2023_AD,_7_24_PM_[Changes]/buildOutputCleanup.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="buildSrc/.gradle/8.0.2/executionHistory/executionHistory.lock" />
+    <option name="AFTER_PATH" value="buildSrc/.gradle/8.0.2/executionHistory/executionHistory.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_08_2023_AD,_7_24_PM_[Changes]/executionHistory.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+    <option name="AFTER_PATH" value=".gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_08_2023_AD,_7_24_PM_[Changes]/buildOutputCleanup1.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/8.0.2/fileHashes/fileHashes.lock" />
+    <option name="AFTER_PATH" value=".gradle/8.0.2/fileHashes/fileHashes.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_08_2023_AD,_7_24_PM_[Changes]/fileHashes.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/8.0.2/executionHistory/executionHistory.lock" />
+    <option name="AFTER_PATH" value=".gradle/8.0.2/executionHistory/executionHistory.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_08_2023_AD,_7_24_PM_[Changes]/executionHistory1.lock" />
+  </binary>
+</changelist>

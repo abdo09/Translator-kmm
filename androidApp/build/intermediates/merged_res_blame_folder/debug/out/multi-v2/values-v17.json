@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "net.learning.translator_kmm.android.androidApp-mergeDebugResources-59:/values-v17/values-v17.xml",
+            "outputFile": "net.learning.translator_kmm.android.androidApp-mergeDebugResources-61:/values-v17/values-v17.xml",
             "map": [
                 {
-                    "source": "/Users/speero/.gradle/caches/transforms-3/1fc951c9ba2eddc586560d3fbe4b9f2b/transformed/appcompat-1.4.1/res/values-v17/values-v17.xml",
+                    "source": "/Users/AbdelrahmanOmer/.gradle/caches/transforms-3/adee3926aa26d152ae3cc42ac8a2327e/transformed/appcompat-1.4.1/res/values-v17/values-v17.xml",
                     "from": {
                         "startLines": "2,5,9,12,15,18,22,25,29,33,37,40,43,46,50,53,57",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

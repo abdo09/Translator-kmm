@@ -79,9 +79,10 @@ object Deps {
 
     const val hiltTesting = "com.google.dagger:hilt-android-testing:$hiltVersion"
 
-    const val koin = "3.2.0"
-    const val koinCore = "io.insert-koin:koin-core:$koin"
-    const val koinTest = "io.insert-koin:koin-test:$koin"
-    const val koinAndroid = "io.insert-koin:koin-android:$koin"
+    const val koinVersion = "3.2.0"
+    const val koinCore = "io.insert-koin:koin-core:$koinVersion"
+    const val koinTest = "io.insert-koin:koin-test:$koinVersion"
+    const val koinAndroid = "io.insert-koin:koin-android:$koinVersion"
+    const val koinCompose =  "io.insert-koin:koin-androidx-compose:$koinVersion"
 
 }

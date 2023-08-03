@@ -1,1 +1,1 @@
-/Users/speero/AndroidStudioProjects/Translator-kmm/buildSrc/build/classes/kotlin/main/Deps.class
+/Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/buildSrc/build/classes/kotlin/main/Deps.class

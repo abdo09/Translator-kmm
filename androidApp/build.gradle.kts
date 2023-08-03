@@ -1,6 +1,8 @@
 plugins {
     id("com.android.application")
     kotlin("android")
+    id("dagger.hilt.android.plugin")
+    id("kotlin-kapt")
 }
 
 android {
@@ -30,11 +32,11 @@ android {
         }
     }
     compileOptions {
-        sourceCompatibility = JavaVersion.VERSION_1_8
-        targetCompatibility = JavaVersion.VERSION_1_8
+        sourceCompatibility = JavaVersion.VERSION_17
+        targetCompatibility = JavaVersion.VERSION_17
     }
     kotlinOptions {
-        jvmTarget = "1.8"
+        jvmTarget = "17"
     }
 }
 
@@ -55,6 +57,7 @@ dependencies {
     implementation(Deps.koinCore)
     implementation(Deps.koinAndroid)
     implementation(Deps.koinTest)
+    implementation(Deps.koinCompose)
 
     implementation(Deps.ktorAndroid)
 
@@ -64,5 +67,10 @@ dependencies {
     debugImplementation(Deps.composeTestManifest)
 
     androidTestImplementation(Deps.hiltTesting)
+
+    implementation(Deps.hiltAndroid)
+    kapt(Deps.hiltAndroidCompiler)
+    kapt(Deps.hiltCompiler)
+    implementation(Deps.hiltNavigationCompose)
 
 }

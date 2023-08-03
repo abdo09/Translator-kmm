@@ -1,25 +1,25 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/speero/AndroidStudioProjects/Translator-kmm/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2630129480134610640.xml:2:13-83
-INJECTED from /Users/speero/AndroidStudioProjects/Translator-kmm/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2630129480134610640.xml:2:13-83
-INJECTED from /Users/speero/AndroidStudioProjects/Translator-kmm/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2630129480134610640.xml:2:13-83
+ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2572188290309314153.xml:2:13-83
+INJECTED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2572188290309314153.xml:2:13-83
+INJECTED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2572188290309314153.xml:2:13-83
 	package
-		INJECTED from /Users/speero/AndroidStudioProjects/Translator-kmm/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2630129480134610640.xml
-		ADDED from /Users/speero/AndroidStudioProjects/Translator-kmm/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2630129480134610640.xml:2:13-83
-		INJECTED from /Users/speero/AndroidStudioProjects/Translator-kmm/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2630129480134610640.xml
+		INJECTED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2572188290309314153.xml
+		ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2572188290309314153.xml:2:13-83
+		INJECTED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2572188290309314153.xml
 	xmlns:android
-		ADDED from /Users/speero/AndroidStudioProjects/Translator-kmm/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2630129480134610640.xml:2:23-81
+		ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2572188290309314153.xml:2:23-81
 uses-sdk
-INJECTED from /Users/speero/AndroidStudioProjects/Translator-kmm/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2630129480134610640.xml reason: use-sdk injection requested
-INJECTED from /Users/speero/AndroidStudioProjects/Translator-kmm/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2630129480134610640.xml
-INJECTED from /Users/speero/AndroidStudioProjects/Translator-kmm/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2630129480134610640.xml
-INJECTED from /Users/speero/AndroidStudioProjects/Translator-kmm/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2630129480134610640.xml
-INJECTED from /Users/speero/AndroidStudioProjects/Translator-kmm/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2630129480134610640.xml
+INJECTED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2572188290309314153.xml reason: use-sdk injection requested
+INJECTED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2572188290309314153.xml
+INJECTED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2572188290309314153.xml
+INJECTED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2572188290309314153.xml
+INJECTED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2572188290309314153.xml
 	android:targetSdkVersion
-		INJECTED from /Users/speero/AndroidStudioProjects/Translator-kmm/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2630129480134610640.xml
-		ADDED from /Users/speero/AndroidStudioProjects/Translator-kmm/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2630129480134610640.xml
-		INJECTED from /Users/speero/AndroidStudioProjects/Translator-kmm/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2630129480134610640.xml
+		INJECTED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2572188290309314153.xml
+		ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2572188290309314153.xml
+		INJECTED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2572188290309314153.xml
 	android:minSdkVersion
-		INJECTED from /Users/speero/AndroidStudioProjects/Translator-kmm/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2630129480134610640.xml
-		ADDED from /Users/speero/AndroidStudioProjects/Translator-kmm/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2630129480134610640.xml
-		INJECTED from /Users/speero/AndroidStudioProjects/Translator-kmm/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2630129480134610640.xml
+		INJECTED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2572188290309314153.xml
+		ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2572188290309314153.xml
+		INJECTED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2572188290309314153.xml
