@@ -138,7 +138,7 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/AbdelrahmanOmer/.gra
 	android:theme
 		ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:8:9-40
 	android:name
-		ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:5:9-38
+		ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:5:9-37
 activity#net.learning.translator_kmm.android.MainActivity
 ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:9:9-16:20
 	android:exported

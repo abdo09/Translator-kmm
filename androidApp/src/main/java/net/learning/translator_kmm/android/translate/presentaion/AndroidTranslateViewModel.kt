@@ -7,9 +7,10 @@ import net.learning.translator_kmm.presentation.TranslateEvent
 import net.learning.translator_kmm.presentation.TranslateViewModel
 import net.learning.translator_kmm.translate.domain.history.HistoryDataSource
 import net.learning.translator_kmm.translate.domain.translate.Translate
+import javax.inject.Inject
 
 @HiltViewModel
-class AndroidTranslateViewModel(
+class AndroidTranslateViewModel @Inject constructor(
     private val translate: Translate,
     private val historyDataSource: HistoryDataSource
 ) : ViewModel(){

@@ -979,6 +979,7 @@ string bottom_sheet_collapse_description
 string bottom_sheet_dismiss_description
 string bottom_sheet_drag_handle_description
 string bottom_sheet_expand_description
+string close
 string close_drawer
 string close_sheet
 string collapsed
@@ -1025,6 +1026,7 @@ string navigation_menu
 string not_selected
 string off
 string on
+string open
 string range_end
 string range_start
 string search_bar_search
@@ -1033,6 +1035,7 @@ string selected
 string snackbar_dismiss
 string status_bar_notification_info_overflow
 string suggestions_available
+string swap_languages
 string switch_role
 string tab
 string template_percent
