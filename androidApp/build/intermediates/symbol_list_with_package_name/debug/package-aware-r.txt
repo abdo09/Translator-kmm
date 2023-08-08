@@ -983,6 +983,8 @@ string close
 string close_drawer
 string close_sheet
 string collapsed
+string copied_to_clipboard
+string copy
 string date_input_headline
 string date_input_headline_description
 string date_input_invalid_for_pattern
@@ -1018,7 +1020,9 @@ string default_error_message
 string default_popup_window_title
 string dialog
 string dropdown_menu
+string enter_a_text_to_translate
 string expanded
+string history
 string in_progress
 string indeterminate
 string m3c_bottom_sheet_pane_title
@@ -1027,8 +1031,10 @@ string not_selected
 string off
 string on
 string open
+string play_loud
 string range_end
 string range_start
+string record_audio
 string search_bar_search
 string search_menu_title
 string selected
@@ -1053,6 +1059,7 @@ string time_picker_period_toggle_description
 string time_picker_pm
 string tooltip_long_press_label
 string tooltip_pane_description
+string translate
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog

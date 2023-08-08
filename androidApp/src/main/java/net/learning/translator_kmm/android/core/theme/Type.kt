@@ -29,27 +29,22 @@ val SfProText = FontFamily(
 
 val Typography = Typography(
     headlineLarge = TextStyle(
-        fontFamily = SfProText,
         fontWeight = FontWeight.Bold,
         fontSize = 30.sp
     ),
     headlineMedium = TextStyle(
-        fontFamily = SfProText,
         fontWeight = FontWeight.Bold,
         fontSize = 24.sp
     ),
     headlineSmall = TextStyle(
-        fontFamily = SfProText,
         fontWeight = FontWeight.Medium,
         fontSize = 18.sp
     ),
     bodyMedium = TextStyle(
-        fontFamily = SfProText,
         fontWeight = FontWeight.Normal,
         fontSize = 14.sp
     ),
     bodySmall = TextStyle(
-        fontFamily = SfProText,
         fontWeight = FontWeight.Normal,
         fontSize = 12.sp
     ),

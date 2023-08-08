@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:2:1-18:12
-INJECTED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:2:1-18:12
-INJECTED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:2:1-18:12
-INJECTED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:2:1-20:12
 MERGED from [:shared] /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [io.insert-koin:koin-androidx-compose:3.2.0] /Users/AbdelrahmanOmer/.gradle/caches/transforms-3/6a4a1838555ec450bcb4f9e57b5f4d85/transformed/koin-androidx-compose-3.2.0/AndroidManifest.xml:2:1-7:12
 MERGED from [io.insert-koin:koin-android:3.2.0] /Users/AbdelrahmanOmer/.gradle/caches/transforms-3/dd468eb4cce98abb45b854daa7f818c2/transformed/koin-android-3.2.0/AndroidManifest.xml:2:1-9:12
@@ -88,25 +88,29 @@ MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/AbdelrahmanOmer/
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/AbdelrahmanOmer/.gradle/caches/transforms-3/c8c5b922c03deb6214a45cdf2bc39b6c/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/AbdelrahmanOmer/.gradle/caches/transforms-3/d2567eec41daf4cbf2e6af237915e150/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.dagger:dagger-lint-aar:2.44] /Users/AbdelrahmanOmer/.gradle/caches/transforms-3/452114ea713bd042f22be101384fbd82/transformed/dagger-lint-aar-2.44/AndroidManifest.xml:16:1-19:12
-INJECTED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:2:1-18:12
-INJECTED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:2:1-18:12
-INJECTED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:2:1-20:12
 	package
 		INJECTED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml
-		ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+		ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:2:1-20:12
 		INJECTED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml
-		ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+		ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:2:1-20:12
 		INJECTED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml
-		ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+		ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:2:1-20:12
 		INJECTED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:4:22-64
 application
-ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:4:5-17:19
+ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:6:5-19:19
 MERGED from [io.insert-koin:koin-android:3.2.0] /Users/AbdelrahmanOmer/.gradle/caches/transforms-3/dd468eb4cce98abb45b854daa7f818c2/transformed/koin-android-3.2.0/AndroidManifest.xml:7:5-20
 MERGED from [io.insert-koin:koin-android:3.2.0] /Users/AbdelrahmanOmer/.gradle/caches/transforms-3/dd468eb4cce98abb45b854daa7f818c2/transformed/koin-android-3.2.0/AndroidManifest.xml:7:5-20
 MERGED from [androidx.compose.ui:ui-tooling:1.4.3] /Users/AbdelrahmanOmer/.gradle/caches/transforms-3/ee5bfe37e5ab6db482ec04f6d3551c8c/transformed/ui-tooling-1.4.3/AndroidManifest.xml:22:5-26:19
@@ -132,29 +136,29 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/AbdelrahmanOmer/.gra
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.9.0] /Users/AbdelrahmanOmer/.gradle/caches/transforms-3/ae3991aefaeb345649fc879217ef4ae4/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:7:9-35
+		ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:9:9-35
 	android:allowBackup
-		ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:6:9-36
+		ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:8:9-36
 	android:theme
-		ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:8:9-40
+		ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:10:9-40
 	android:name
-		ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:5:9-37
+		ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:7:9-37
 activity#net.learning.translator_kmm.android.MainActivity
-ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:9:9-16:20
+ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:11:9-18:20
 	android:exported
-		ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:11:13-36
+		ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:13:13-36
 	android:name
-		ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:10:13-41
+		ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:12:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:12:13-15:29
+ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:14:13-17:29
 action#android.intent.action.MAIN
-ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:13:17-69
+ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:15:17-69
 	android:name
-		ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:13:25-66
+		ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:14:17-77
+ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:14:27-74
+		ADDED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml:16:27-74
 uses-sdk
 INJECTED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/src/main/AndroidManifest.xml

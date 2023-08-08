@@ -21,7 +21,7 @@ class KtorTranslateClient(
         textToTranslate: String,
         toLanguage: Language,
     ): String {
-        val baseUrl = "https://translate.pl-code.com"
+        val baseUrl = "https://translate.pl-coding.com"
         val result = try {
             httpClient.post {
                 url("$baseUrl/translate")

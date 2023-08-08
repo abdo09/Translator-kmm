@@ -3,4 +3,11 @@
     <string name="close">Close</string>
     <string name="open">Open</string>
     <string name="swap_languages">Swap languages</string>
+    <string name="copy">Copy</string>
+    <string name="play_loud">Pay loud</string>
+    <string name="enter_a_text_to_translate">Enter a text to translate\n</string>
+    <string name="translate">Translate</string>
+    <string name="copied_to_clipboard">Text copied to clipboard</string>
+    <string name="history">History</string>
+    <string name="record_audio">Record audio</string>
 </resources>

@@ -1,4 +1,4 @@
-#Fri Aug 04 20:35:21 AST 2023
+#Tue Aug 08 10:56:43 AST 2023
 base.0=/Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 base.1=/Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/build/intermediates/dex/debug/mergeLibDexDebug/1/classes.dex
 base.10=/Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/androidApp/build/intermediates/dex/debug/mergeLibDexDebug/7/classes.dex

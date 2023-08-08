@@ -3,6 +3,6 @@
 3    package="net.learning.translator_kmm" >
 4
 5    <uses-sdk android:minSdkVersion="24" />
-5-->/Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest14738214939178138297.xml
+5-->/Users/AbdelrahmanOmer/AndroidStudioProjects/TranslatorKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4266487304778981508.xml
 6
 7</manifest>
